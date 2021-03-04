@@ -5,6 +5,8 @@
     "time_between_follow": 40,
     "unfollow_per_followed": 3,
 
+    "dirChromeDriver": "D:/YOUR DIRECTORY/chromedriver.exe",
+
     "accounts_base_follow": ["user-base-1", "user-base-2", "etc........"],
 
     

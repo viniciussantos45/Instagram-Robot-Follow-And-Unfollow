@@ -21,7 +21,7 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--kiosk-printing')
 chrome_options.add_argument("--ignore-certificate-errors")
-driver = webdriver.Chrome("D:\Selenium\Chrome Drive\chromedriver.exe", options=chrome_options)
+driver = webdriver.Chrome(CONFIG['dirChromeDriver'], options=chrome_options)
 driver.set_script_timeout(600)
 
 def scriptBody(username, returnType = 'followers'):
