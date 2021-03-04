@@ -1,0 +1,14 @@
+{
+    "execute_list_followers_base": "2021-03-01 08:20:20",
+    "followers_base": {},
+    "followed_the_robot":[{"username": "","followDateTime": "2020-02-02 08:20:20"}],
+    "myFollowings": [],
+    "myFollowers": [],
+    "followersReciprocal": [],
+    "followersNotReciprocal": [],
+    "last_follow":{
+        "base": "",
+        "username": "",
+        "dateTime": "2020-02-02 08:20:20"
+    }
+}

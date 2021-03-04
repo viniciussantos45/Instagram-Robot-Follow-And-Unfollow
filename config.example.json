@@ -1,0 +1,19 @@
+{
+    "username": "your-user",
+    "password": "your-password",
+
+    "time_between_follow": 40,
+    "unfollow_per_followed": 3,
+
+    "accounts_base_follow": ["user-base-1", "user-base-2", "etc........"],
+
+    
+    "*********comment-1********": "Change the property values ​​below if your language is not Brazilian",
+
+
+    "textButtonFollow": "Seguir",
+    "textButtonFollowing": "Seguindo",
+    "textButtonFollowingConfirm": "Deixar de seguir",
+    "textButtonUnfollow": "Deixar de seguir",
+    "textButtonSendMessage": "Enviar mensagem"
+}
